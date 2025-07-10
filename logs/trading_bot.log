@@ -1,0 +1,4 @@
+2025-07-11 04:02:00,478 - TradingBot - INFO - Logger initialized
+2025-07-11 04:02:01,881 - TradingBot - INFO - Connected to Binance Futures Testnet
+2025-07-11 04:02:01,881 - TradingBot - INFO - Account Balance: 14952.31109578 USDT
+2025-07-11 04:02:14,706 - TradingBot - INFO - Placing MARKET order with monitoring: BUY 8.0 XRPUSDT
