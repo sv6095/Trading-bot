@@ -1,0 +1,229 @@
+2025-07-11 12:35:26,417 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 12:35:26,418 - TradingBot - INFO - Balance: 14810.57406562 USDT
+2025-07-11 12:35:51,035 - MarketOrder - INFO - Placing MARKET order: BUY 2.0 RTCUSDT
+2025-07-11 12:35:51,163 - MarketOrder - ERROR - Market order error: APIError(code=-1121): Invalid symbol.
+2025-07-11 12:36:40,127 - MarketOrder - INFO - Placing MARKET order: BUY 1.0 BTCUSDT
+2025-07-11 12:52:15,328 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 12:52:15,328 - TradingBot - INFO - Balance: 14763.57848414 USDT
+2025-07-11 12:52:35,943 - MarketOrder - INFO - Placing MARKET order: BUY 2.0 BNBUSDT
+2025-07-11 12:52:36,237 - MarketOrder - INFO - Market order executed at price: 687.93
+2025-07-11 12:58:26,439 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 12:58:26,440 - TradingBot - INFO - Balance: 14763.02814014 USDT
+2025-07-11 13:00:12,318 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 13:00:12,318 - TradingBot - INFO - Balance: 14763.02814014 USDT
+2025-07-11 13:08:39,858 - LimitOrder - INFO - Placing LIMIT order: BUY 3.0 BTCUSDT @ 2.0
+2025-07-11 13:08:40,158 - LimitOrder - ERROR - Limit order error: APIError(code=-4013): Price less than min price.
+2025-07-11 13:08:40,159 - OCOOrder - ERROR - OCO order error: APIError(code=-4013): Price less than min price.
+2025-07-11 13:09:43,737 - LimitOrder - INFO - Placing LIMIT order: BUY 0.2 ADAUSDT @ 0.45
+2025-07-11 13:09:43,856 - LimitOrder - ERROR - Limit order error: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-07-11 13:11:24,818 - LimitOrder - INFO - Placing LIMIT order: BUY 2.0 ADAUSDT @ 0.45
+2025-07-11 13:11:25,143 - LimitOrder - ERROR - Limit order error: APIError(code=-4164): Order's notional must be no smaller than 5 (unless you choose reduce only).
+2025-07-11 13:12:23,322 - LimitOrder - INFO - Placing LIMIT order: BUY 12.0 ADAUSDT @ 0.45
+2025-07-11 15:30:22,657 - LimitOrder - INFO - Placing LIMIT order: BUY 0.002 BTCUSDT @ 65000.0
+2025-07-11 15:45:45,362 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 15:45:45,362 - TradingBot - INFO - Balance: 14802.48320891 USDT
+2025-07-11 15:46:05,604 - MarketOrder - INFO - Placing MARKET order: BUY 0.03 BTCUSDT
+2025-07-11 15:46:06,852 - MarketOrder - INFO - Market order executed at price: 118148.9
+2025-07-11 15:48:45,658 - LimitOrder - INFO - Placing LIMIT order: BUY 0.02 BTCUSDT @ 50000.0
+2025-07-11 15:52:51,338 - LimitOrder - INFO - Placing LIMIT order: BUY 3.0 BNBUSDT @ 650.0
+2025-07-11 15:53:33,263 - LimitOrder - INFO - Placing LIMIT order: BUY 3.0 BNBUSDT @ 690.0
+2025-07-11 15:58:39,189 - LimitOrder - INFO - Placing LIMIT order: BUY 3.0 BNBUSDT @ 690.0
+2025-07-11 16:01:32,395 - LimitOrder - INFO - Placing LIMIT order: BUY 3.0 BNBUSDT @ 690.0
+2025-07-11 16:02:03,746 - LimitOrder - INFO - Placing LIMIT order: BUY 3.0 BNBUSDT @ 690.2
+2025-07-11 16:02:35,176 - LimitOrder - INFO - Placing LIMIT order: BUY 3.0 BNBUSDT @ 690.3
+2025-07-11 16:05:36,113 - LimitOrder - INFO - Placing LIMIT order: BUY 3.0 BNBUSDT @ 695.0
+2025-07-11 16:09:37,390 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:09:37,390 - TradingBot - INFO - Balance: 14796.92662836 USDT
+2025-07-11 16:09:50,355 - LimitOrder - WARNING - BUY @ 695.0 >= current 689.38 - IMMEDIATE EXECUTION
+2025-07-11 16:09:50,355 - LimitOrder - INFO - Placing LIMIT order: BUY 3.0 BNBUSDT @ 695.0
+2025-07-11 16:13:04,828 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:13:04,829 - TradingBot - INFO - Balance: 14796.09932552 USDT
+2025-07-11 16:13:36,554 - LimitOrder - INFO - BUY @ 689.0 < current 689.66 - WAITING for price drop
+2025-07-11 16:13:36,554 - LimitOrder - INFO - Placing LIMIT order: BUY 4.0 BNBUSDT @ 689.0
+2025-07-11 16:14:23,056 - LimitOrder - WARNING - BUY @ 690.0 >= current 689.67 - IMMEDIATE EXECUTION
+2025-07-11 16:14:23,056 - LimitOrder - INFO - Placing LIMIT order: BUY 4.0 BNBUSDT @ 690.0
+2025-07-11 16:19:43,689 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:19:43,690 - TradingBot - INFO - Balance: 14794.99572576 USDT
+2025-07-11 16:19:57,588 - LimitOrder - WARNING - BUY @ 700.0 >= current 689.85 - IMMEDIATE EXECUTION
+2025-07-11 16:19:57,588 - LimitOrder - INFO - Placing LIMIT order: BUY 4.0 BNBUSDT @ 700.0
+2025-07-11 16:19:58,629 - LimitOrder - INFO - Order filled at actual price: 689.88
+2025-07-11 16:25:35,856 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:25:35,856 - TradingBot - INFO - Balance: 14793.89191776 USDT
+2025-07-11 16:27:28,236 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:27:28,236 - TradingBot - INFO - Balance: 14793.89191776 USDT
+2025-07-11 16:28:29,488 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:28:29,488 - TradingBot - INFO - Balance: 14793.89191776 USDT
+2025-07-11 16:29:41,314 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:29:41,315 - TradingBot - INFO - Balance: 14793.89191776 USDT
+2025-07-11 16:30:45,214 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:30:45,214 - TradingBot - INFO - Balance: 14793.89191776 USDT
+2025-07-11 16:36:17,877 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:36:17,877 - TradingBot - INFO - Balance: 14793.89191776 USDT
+2025-07-11 16:37:50,392 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:37:50,392 - TradingBot - INFO - Balance: 14793.89191776 USDT
+2025-07-11 16:38:24,340 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:38:24,340 - TradingBot - INFO - Balance: 14793.89191776 USDT
+2025-07-11 16:38:40,676 - LimitOrder - WARNING - BUY @ 700.0 >= current 689.69 - IMMEDIATE EXECUTION
+2025-07-11 16:38:40,676 - LimitOrder - INFO - Placing LIMIT order: BUY 3.0 BNBUSDT @ 700.0
+2025-07-11 16:38:41,629 - LimitOrder - INFO - Order filled at actual price: 689.69
+2025-07-11 16:42:06,387 - LimitOrder - WARNING - BUY @ 700.0 >= current 689.56 - IMMEDIATE EXECUTION
+2025-07-11 16:42:06,388 - LimitOrder - INFO - Placing LIMIT order: BUY 4.0 BNBUSDT @ 700.0
+2025-07-11 16:42:07,722 - LimitOrder - INFO - Order filled at actual price: 689.57
+2025-07-11 16:43:03,296 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:43:03,297 - TradingBot - INFO - Balance: 14791.96097776 USDT
+2025-07-11 16:43:15,211 - LimitOrder - WARNING - BUY @ 700.0 >= current 689.28 - IMMEDIATE EXECUTION
+2025-07-11 16:43:15,211 - LimitOrder - INFO - Placing LIMIT order: BUY 8.0 BNBUSDT @ 700.0
+2025-07-11 16:43:15,414 - LimitOrder - ERROR - Limit order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 16:43:40,299 - LimitOrder - WARNING - BUY @ 690.0 >= current 688.48 - IMMEDIATE EXECUTION
+2025-07-11 16:43:40,299 - LimitOrder - INFO - Placing LIMIT order: BUY 3.0 BNBUSDT @ 690.0
+2025-07-11 16:43:40,630 - LimitOrder - ERROR - Limit order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 16:44:45,952 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:44:45,953 - TradingBot - INFO - Balance: 14791.01977776 USDT
+2025-07-11 16:45:00,781 - LimitOrder - WARNING - BUY @ 700.0 >= current 688.66 - IMMEDIATE EXECUTION
+2025-07-11 16:45:00,781 - LimitOrder - INFO - Placing LIMIT order: BUY 2.0 BNBUSDT @ 700.0
+2025-07-11 16:45:01,293 - LimitOrder - ERROR - Limit order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 16:53:50,344 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:53:50,344 - TradingBot - INFO - Balance: 14791.01977776 USDT
+2025-07-11 16:54:02,801 - LimitOrder - WARNING - BUY @ 690.0 >= current 688.6 - IMMEDIATE EXECUTION
+2025-07-11 16:56:36,110 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 16:56:36,111 - TradingBot - INFO - Balance: 14791.01977776 USDT
+2025-07-11 16:56:50,333 - LimitOrder - WARNING - BUY @ 701.0 >= current 688.69 - IMMEDIATE EXECUTION
+2025-07-11 17:00:44,632 - LimitOrder - INFO - BUY @ 117684.0 < current 117689.1 - WAITING for price drop
+2025-07-11 17:00:45,135 - LimitOrder - INFO - Calculated optimal leverage: 20x for $235368.00 position
+2025-07-11 17:00:45,564 - LimitOrder - INFO - Leverage set to 20x for BTCUSDT
+2025-07-11 17:05:00,326 - LimitOrder - WARNING - SELL @ 117600.0 <= current 117699.9 - IMMEDIATE EXECUTION
+2025-07-11 17:05:00,526 - LimitOrder - INFO - Calculated optimal leverage: 20x for $352800.00 position
+2025-07-11 17:05:00,846 - LimitOrder - INFO - Leverage set to 20x for BTCUSDT
+2025-07-11 17:08:36,132 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 17:08:36,132 - TradingBot - INFO - Balance: 14791.01977776 USDT
+2025-07-11 17:09:07,423 - LimitOrder - WARNING - BUY @ 3000.0 >= current 2986.51 - IMMEDIATE EXECUTION
+2025-07-11 17:09:07,423 - LimitOrder - INFO - Placing LIMIT order: BUY 2.0 ETHUSDT @ 3000.0
+2025-07-11 17:09:07,742 - LimitOrder - ERROR - Limit order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 17:14:35,336 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 17:14:35,337 - TradingBot - INFO - Balance: 14791.01977776 USDT
+2025-07-11 17:14:57,225 - LimitOrder - ERROR - Failed to setup margin/leverage: APIError(code=-4048): Margin type cannot be changed if there exists position.
+2025-07-11 17:14:57,225 - LimitOrder - ERROR - Limit order error: Failed to setup margin configuration: APIError(code=-4048): Margin type cannot be changed if there exists position.
+2025-07-11 17:16:07,293 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 17:16:07,294 - TradingBot - INFO - Balance: 14791.01977776 USDT
+2025-07-11 17:16:23,568 - LimitOrder - WARNING - BUY @ 690.0 >= current 688.5 - IMMEDIATE EXECUTION
+2025-07-11 17:16:23,568 - LimitOrder - INFO - Placing LIMIT order: BUY 2.0 BNBUSDT @ 690.0
+2025-07-11 17:16:24,179 - LimitOrder - ERROR - Limit order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 17:18:09,553 - MarketOrder - INFO - Placing MARKET order: BUY 2.0 BNBUSDT
+2025-07-11 17:18:09,934 - MarketOrder - ERROR - Market order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 17:21:24,809 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 17:21:24,809 - TradingBot - INFO - Balance: 14791.01977776 USDT
+2025-07-11 17:24:06,927 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 17:24:31,012 - LimitOrder - WARNING - BUY @ 700.0 >= current 688.69 - IMMEDIATE EXECUTION
+2025-07-11 17:24:31,013 - LimitOrder - INFO - Placing LIMIT order: BUY 0.03 BNBUSDT @ 700.0
+2025-07-11 17:24:32,197 - LimitOrder - INFO - Order filled at actual price: 688.7
+2025-07-11 17:29:58,393 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 17:30:56,662 - LimitOrder - INFO - BUY @ 66000.0 < current 117775.1 - WAITING for price drop
+2025-07-11 17:30:56,662 - LimitOrder - INFO - Placing LIMIT order: BUY 0.001 BTCUSDT @ 66000.0
+2025-07-11 17:30:57,064 - LimitOrder - ERROR - Limit order error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-07-11 17:30:57,064 - OCOOrder - ERROR - OCO order error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-07-11 17:34:58,104 - LimitOrder - INFO - BUY @ 66000.0 < current 117775.1 - WAITING for price drop
+2025-07-11 17:34:58,105 - LimitOrder - INFO - Placing LIMIT order: BUY 0.001 BTCUSDT @ 66000.0
+2025-07-11 17:34:58,514 - LimitOrder - ERROR - Limit order error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-07-11 17:34:58,515 - OCOOrder - ERROR - OCO order error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-07-11 17:37:03,562 - MarketOrder - INFO - Placing MARKET order: BUY 0.002 BTCUSDT
+2025-07-11 17:37:04,408 - MarketOrder - INFO - Market order executed at price: 117775.05
+2025-07-11 17:37:04,408 - MarketOrder - INFO - Price change from 117576.7 to 117775.05: 0.17%
+2025-07-11 17:38:04,591 - MarketOrder - INFO - Placing MARKET order: BUY 0.002 BTCUSDT
+2025-07-11 17:38:04,984 - MarketOrder - ERROR - Market order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 17:38:04,984 - TWAPOrder - ERROR - TWAP error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 17:57:05,980 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 17:59:45,393 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 18:04:43,328 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 18:07:22,705 - LimitOrder - INFO - BUY @ 66000.0 < current 117812.4 - WAITING for price drop
+2025-07-11 18:07:22,705 - LimitOrder - INFO - Placing LIMIT order: BUY 0.0016 BTCUSDT @ 66000.0
+2025-07-11 18:07:23,022 - LimitOrder - ERROR - Limit order error: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-07-11 18:09:24,826 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 18:10:08,067 - LimitOrder - INFO - BUY @ 70000.0 < current 117768.0 - WAITING for price drop
+2025-07-11 18:10:08,068 - LimitOrder - INFO - Placing LIMIT order: BUY 0.0016 BTCUSDT @ 70000.0
+2025-07-11 18:10:08,238 - LimitOrder - ERROR - Limit order error: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-07-11 18:10:08,239 - OCOOrder - ERROR - OCO order error: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-07-11 18:14:50,166 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 18:15:54,545 - LimitOrder - INFO - BUY @ 66000.0 < current 117700.0 - WAITING for price drop
+2025-07-11 18:15:54,545 - LimitOrder - INFO - Placing LIMIT order: BUY 0.0016 BTCUSDT @ 66000.0
+2025-07-11 18:15:54,756 - LimitOrder - ERROR - Limit order error: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-07-11 18:15:54,757 - OCOOrder - ERROR - OCO order error: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-07-11 18:19:05,279 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 18:23:33,235 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 18:25:19,322 - LimitOrder - INFO - BUY @ 65000.0 < current 117698.8 - WAITING for price drop
+2025-07-11 18:25:19,323 - LimitOrder - INFO - Placing LIMIT order: BUY 0.03 BTCUSDT @ 65000.0
+2025-07-11 18:25:19,523 - LimitOrder - ERROR - Limit order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 18:25:19,524 - OCOOrder - ERROR - OCO order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 23:36:24,731 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-11 23:44:58,557 - LimitOrder - INFO - BUY @ 45000.0 < current 116999.9 - WAITING for price drop
+2025-07-11 23:44:58,557 - LimitOrder - INFO - Placing LIMIT order: BUY 0.01 BTCUSDT @ 45000.0
+2025-07-11 23:44:58,877 - LimitOrder - ERROR - Limit order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 23:44:58,878 - GridOrder - ERROR - Grid order placement error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 23:44:59,263 - LimitOrder - INFO - BUY @ 46111.1 < current 116999.9 - WAITING for price drop
+2025-07-11 23:44:59,264 - LimitOrder - INFO - Placing LIMIT order: BUY 0.01 BTCUSDT @ 46111.1
+2025-07-11 23:44:59,585 - LimitOrder - ERROR - Limit order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 23:44:59,586 - GridOrder - ERROR - Grid order placement error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 23:44:59,971 - LimitOrder - INFO - BUY @ 47222.2 < current 116999.9 - WAITING for price drop
+2025-07-11 23:44:59,971 - LimitOrder - INFO - Placing LIMIT order: BUY 0.01 BTCUSDT @ 47222.2
+2025-07-11 23:45:00,088 - LimitOrder - ERROR - Limit order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 23:45:00,089 - GridOrder - ERROR - Grid order placement error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 23:45:00,417 - LimitOrder - INFO - BUY @ 48333.3 < current 116999.9 - WAITING for price drop
+2025-07-11 23:45:00,417 - LimitOrder - INFO - Placing LIMIT order: BUY 0.01 BTCUSDT @ 48333.3
+2025-07-11 23:45:00,731 - LimitOrder - ERROR - Limit order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 23:45:00,732 - GridOrder - ERROR - Grid order placement error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 23:45:00,892 - LimitOrder - INFO - BUY @ 49444.4 < current 116999.9 - WAITING for price drop
+2025-07-11 23:45:00,893 - LimitOrder - INFO - Placing LIMIT order: BUY 0.01 BTCUSDT @ 49444.4
+2025-07-11 23:45:01,216 - LimitOrder - ERROR - Limit order error: APIError(code=-2019): Margin is insufficient.
+2025-07-11 23:45:01,217 - GridOrder - ERROR - Grid order placement error: APIError(code=-2019): Margin is insufficient.
+2025-07-12 00:00:19,200 - LimitOrder - INFO - BUY @ 45000.0 < current 117291.6 - WAITING for price drop
+2025-07-12 00:00:19,200 - LimitOrder - INFO - Placing LIMIT order: BUY 0.01 BTCUSDT @ 45000.0
+2025-07-12 00:00:19,812 - LimitOrder - INFO - BUY @ 46111.1 < current 117291.6 - WAITING for price drop
+2025-07-12 00:00:19,812 - LimitOrder - INFO - Placing LIMIT order: BUY 0.01 BTCUSDT @ 46111.1
+2025-07-12 00:00:20,427 - LimitOrder - INFO - BUY @ 47222.2 < current 117296.6 - WAITING for price drop
+2025-07-12 00:00:20,428 - LimitOrder - INFO - Placing LIMIT order: BUY 0.01 BTCUSDT @ 47222.2
+2025-07-12 00:00:21,036 - LimitOrder - INFO - BUY @ 48333.3 < current 117291.6 - WAITING for price drop
+2025-07-12 00:00:21,038 - LimitOrder - INFO - Placing LIMIT order: BUY 0.01 BTCUSDT @ 48333.3
+2025-07-12 00:00:21,862 - LimitOrder - INFO - BUY @ 49444.4 < current 117296.6 - WAITING for price drop
+2025-07-12 00:00:21,862 - LimitOrder - INFO - Placing LIMIT order: BUY 0.01 BTCUSDT @ 49444.4
+2025-07-12 00:02:14,399 - LimitOrder - INFO - SELL @ 118000.0 > current 117296.6 - WAITING for price rise
+2025-07-12 00:02:14,400 - LimitOrder - INFO - Placing LIMIT order: SELL 0.05 BTCUSDT @ 118000.0
+2025-07-12 00:02:14,912 - LimitOrder - INFO - Placing STOP-LIMIT: SELL 0.05 BTCUSDT @ 115500.0 (stop: 116000.0)
+2025-07-12 00:04:32,438 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-12 00:10:19,129 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-12 00:12:43,872 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-12 00:13:01,302 - TradingBot - ERROR - Error fetching order history: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:14:00,364 - TradingBot - ERROR - Error fetching order history: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:14:11,524 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-12 00:14:26,882 - TradingBot - WARNING - Skipping symbol TUSDUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:14:35,078 - TradingBot - WARNING - Skipping symbol TFUELUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:14:37,634 - TradingBot - WARNING - Skipping symbol WINUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:14:39,477 - TradingBot - WARNING - Skipping symbol WANUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:14:40,295 - TradingBot - WARNING - Skipping symbol CVCUSDT: APIError(code=-4141): Symbol is closed.
+2025-07-12 00:14:46,646 - TradingBot - WARNING - Skipping symbol FTTUSDT: APIError(code=-4141): Symbol is closed.
+2025-07-12 00:14:47,161 - TradingBot - WARNING - Skipping symbol EURUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:14:48,050 - TradingBot - WARNING - Skipping symbol LTOUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:14:49,206 - TradingBot - WARNING - Skipping symbol DATAUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:14:51,158 - TradingBot - WARNING - Skipping symbol ARDRUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:14:52,892 - TradingBot - WARNING - Skipping symbol SCUSDT: APIError(code=-4141): Symbol is closed.
+2025-07-12 00:14:55,452 - TradingBot - WARNING - Skipping symbol DCRUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:14:57,255 - TradingBot - WARNING - Skipping symbol KMDUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:14:59,352 - TradingBot - WARNING - Skipping symbol LUNAUSDT: APIError(code=-4141): Symbol is closed.
+2025-07-12 00:15:06,371 - TradingBot - WARNING - Skipping symbol UTKUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:12,552 - TradingBot - WARNING - Skipping symbol JUVUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:12,961 - TradingBot - WARNING - Skipping symbol PSGUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:14,183 - TradingBot - WARNING - Skipping symbol ATMUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:17,575 - TradingBot - WARNING - Skipping symbol DODOUSDT: APIError(code=-4141): Symbol is closed.
+2025-07-12 00:15:18,371 - TradingBot - WARNING - Skipping symbol ACMUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:20,645 - TradingBot - WARNING - Skipping symbol PONDUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:24,845 - TradingBot - WARNING - Skipping symbol TKOUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:26,482 - TradingBot - WARNING - Skipping symbol TLMUSDT: APIError(code=-4141): Symbol is closed.
+2025-07-12 00:15:26,685 - TradingBot - WARNING - Skipping symbol BARUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:28,425 - TradingBot - WARNING - Skipping symbol SHIBUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:28,631 - TradingBot - WARNING - Skipping symbol ICPUSDT: APIError(code=-4141): Symbol is closed.
+2025-07-12 00:15:35,152 - TradingBot - WARNING - Skipping symbol RAYUSDT: APIError(code=-4141): Symbol is closed.
+2025-07-12 00:15:35,388 - TradingBot - WARNING - Skipping symbol FARMUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:36,720 - TradingBot - WARNING - Skipping symbol REQUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:37,952 - TradingBot - WARNING - Skipping symbol GNOUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:38,172 - TradingBot - WARNING - Skipping symbol XECUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:15:39,590 - TradingBot - WARNING - Skipping symbol USDPUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-12 00:19:01,838 - TradingBot - INFO - Connected to Binance Testnet
+2025-07-12 00:19:17,413 - TradingBot - INFO - Processed 10 symbols
