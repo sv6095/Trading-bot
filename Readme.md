@@ -62,7 +62,7 @@ cd trading-bot
 ### 2. Setup Environment Variables
 Copy the example env file and add your Binance API keys:
 ```bash
-cp .env.example .env
+.env
 ```
 
 ### 3. Run the Application
